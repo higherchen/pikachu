@@ -1,2 +1,2 @@
 # pikachu
-Just another framework @_@
+Simple by composer @_@
